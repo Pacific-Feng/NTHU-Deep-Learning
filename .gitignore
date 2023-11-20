@@ -1,3 +1,6 @@
 
 *.jpg
 *.xml
+*.data-00000-of-00001
+Labs/L12-1_Seq2Seq_Learning_And_Neural_Machine_Translation/TA_tutorial/checkpoints/chinese-eng/checkpoint
+*.index
